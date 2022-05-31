@@ -1,0 +1,1 @@
+print("it's small gg")
