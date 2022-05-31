@@ -1,0 +1,4 @@
+{"role": "admin", "account": "admin", "password": "123456", "dept": "tester"}
+{"role": "user", "account": "dev", "password": "123456", "dept": "tester"}
+{"role": "user", "account": "rose", "password": "123456", "dept": "tester"}
+{"role": "user", "account": "Jack", "password": "123456", "dept": "tester"}

@@ -1,0 +1,45 @@
+2022-05-31 00:24:49.807 | INFO     | __main__:<module>:10 - hello world
+2022-05-31 00:24:49.808 | DEBUG    | __main__:<module>:11 - 这是debug日志
+2022-05-31 00:24:49.808 | WARNING  | __main__:<module>:12 - 这是warning日志
+2022-05-31 00:24:49.808 | SUCCESS  | __main__:<module>:13 - 这是success日志
+2022-05-31 00:24:49.809 | ERROR    | __main__:<module>:14 - 这是error日志
+2022-05-31 00:24:49.809 | CRITICAL | __main__:<module>:15 - 这是critical日志
+(2022-05-31T00:28:43.473342+0800|INFO|loguru_practice|hello world|11)|
+(2022-05-31T00:28:43.473342+0800|DEBUG|loguru_practice|这是debug日志|12)|
+(2022-05-31T00:28:43.473342+0800|WARNING|loguru_practice|这是warning日志|13)|
+(2022-05-31T00:28:43.473342+0800|SUCCESS|loguru_practice|这是success日志|14)|
+(2022-05-31T00:28:43.474335+0800|ERROR|loguru_practice|这是error日志|15)|
+(2022-05-31T00:28:43.474335+0800|CRITICAL|loguru_practice|这是critical日志|16)|
+2022-05-31T00:29:43.628687+0800|INFO|loguru_practice|11|hello world)|
+2022-05-31T00:29:43.629687+0800|DEBUG|loguru_practice|12|这是debug日志)|
+2022-05-31T00:29:43.630690+0800|WARNING|loguru_practice|13|这是warning日志)|
+2022-05-31T00:29:43.630690+0800|SUCCESS|loguru_practice|14|这是success日志)|
+2022-05-31T00:29:43.630690+0800|ERROR|loguru_practice|15|这是error日志)|
+2022-05-31T00:29:43.630690+0800|CRITICAL|loguru_practice|16|这是critical日志)|
+2022-05-31T00:31:21.584950+0800 | INFO | loguru_practice | 11 | hello world )|
+2022-05-31T00:31:21.584950+0800 | DEBUG | loguru_practice | 12 | 这是debug日志 )|
+2022-05-31T00:31:21.585948+0800 | WARNING | loguru_practice | 13 | 这是warning日志 )|
+2022-05-31T00:31:21.585948+0800 | SUCCESS | loguru_practice | 14 | 这是success日志 )|
+2022-05-31T00:31:21.585948+0800 | ERROR | loguru_practice | 15 | 这是error日志 )|
+2022-05-31T00:31:21.585948+0800 | CRITICAL | loguru_practice | 16 | 这是critical日志 )|
+2022-05-31 00:32:38 | INFO | loguru_practice | 11 | hello world )|
+2022-05-31 00:32:38 | DEBUG | loguru_practice | 12 | 这是debug日志 )|
+2022-05-31 00:32:38 | WARNING | loguru_practice | 13 | 这是warning日志 )|
+2022-05-31 00:32:38 | SUCCESS | loguru_practice | 14 | 这是success日志 )|
+2022-05-31 00:32:38 | ERROR | loguru_practice | 15 | 这是error日志 )|
+2022-05-31 00:32:38 | CRITICAL | loguru_practice | 16 | 这是critical日志 )|
+
+2022-05-31 00:34:49 | INFO | loguru_practice | 11 | hello world )|
+2022-05-31 00:34:49 | DEBUG | loguru_practice | 12 | 这是debug日志 )|
+2022-05-31 00:34:49 | WARNING | loguru_practice | 13 | 这是warning日志 )|
+2022-05-31 00:34:49 | SUCCESS | loguru_practice | 14 | 这是success日志 )|
+2022-05-31 00:34:49 | ERROR | loguru_practice | 15 | 这是error日志 )|
+2022-05-31 00:34:49 | CRITICAL | loguru_practice | 16 | 这是critical日志 )|
+2022-05-31 00:34:49 | INFO | loguru_practice | 18 | 我的名字叫小争爱学测试 )|
+2022-05-31 00:35:13 | INFO | loguru_practice | 11 | hello world )|
+2022-05-31 00:35:13 | DEBUG | loguru_practice | 12 | 这是debug日志 )|
+2022-05-31 00:35:13 | WARNING | loguru_practice | 13 | 这是warning日志 )|
+2022-05-31 00:35:13 | SUCCESS | loguru_practice | 14 | 这是success日志 )|
+2022-05-31 00:35:13 | ERROR | loguru_practice | 15 | 这是error日志 )|
+2022-05-31 00:35:13 | CRITICAL | loguru_practice | 16 | 这是critical日志 )|
+2022-05-31 00:35:13 | INFO | loguru_practice | 18 | 我的名字叫小争爱学测试 )|
